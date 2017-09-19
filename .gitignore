@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+/bin
+/Queries.sql
+
+src/main/resources/log____________4j.properties/hs_err_pid19022.log
